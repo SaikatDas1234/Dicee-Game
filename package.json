@@ -1,0 +1,15 @@
+{
+  "name": "Dicee Challenge - Completed",
+  "version": "1.0.0",
+  "description": "App for creating public and private stories",
+  "main": "dicee.html",
+  "master": "index.html",
+  "scripts": {
+  },
+  "author": "Saikat Das",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
